@@ -1,8 +1,10 @@
 {
   "version": 2,
   "env": {
-    "SLACK_SUBDOMAIN": "@slack-subdomain",
-    "SLACK_API_TOKEN": "@slack-api-token"
+    "SLACK_SUBDOMAIN": "@dotnetperth-slack-subdomain",
+    "SLACK_API_TOKEN": "@dotnetperth-slack-api-token",
+    "RECAPTCHA_SECRET": "@dotnetperth-recaptcha-secret",
+    "RECAPTCHA_SITEKEY": "@dotnetperth-recaptcha-sitekey"
   },
   "github": {
     "silent": true
